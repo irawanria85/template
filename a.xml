@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<html xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<!-- SEO Meta Tag -->
+<meta content='auto visitor blogger, auto visit blog, bot visitor blog, auto blogger visitor' name='keywords'/>
+<meta content='width=device-width, initial-scale=1' name='viewport'/>
+<meta expr:content='data:blog.title' name='description'/>
+<meta content='follow, all' name='msnbot'/>
+<meta content='all' name='Slurp'/>
+<meta content='all' name='ZyBorg'/>
+<meta content='all' name='Scooter'/>
+<meta content='all' name='Webcrawlers'/>
+<meta content='all' name='Spiders'/>
+<meta content='all' name='audience'/>
+<meta content='follow, all' name='Googlebot-Image'/>
+<meta content='noodp' name='robots'/>
+<meta content='2 days' name='revisit'/>
+<meta content='2 days' name='revisit-after'/>
+<meta content='ID' name='language'/>
+<meta content='ID' http-equiv='content-language'/>
+<meta content='no-cache' http-equiv='cache-control'/>
+<meta content='no-cache' http-equiv='pragma'/>
+<meta content='general' name='rating'/>
+<meta content='global' name='target'/>
+<meta content='blogger' name='generator'/>
+<meta content='Alexa, Yandex, Google, Yahoo, Bing, Googlebot' name='search engines'/>
+<link href='//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet' type='text/css'/>
+<title><data:blog.title/></title>
+</head>
+<b:skin><![CDATA[
+/* CSS Reset */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
+/* HTML5 */
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1;display:block}*{margin:0;padding:0}html{display:block}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{background:transparent}table{border-collapse:collapse;border-spacing:0}*,*:before,*:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}b,strong{font-weight:500}dfn,cite,em,i{font-style:italic}html,html a{-webkit-font-smoothing:antialiased!important}body{background:#f0f0f0;font-family:'Google Sans',sans-serif;font-size:16px;font-weight:400;text-align:left;color:#000;margin:0;padding:0;line-height:normal}h1,h2,h3,h4,h5,h6{font-style:normal;font-weight:500}a{text-decoration:none}a:hover{cursor:pointer}
+/* Google Font */
+@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:local('Google Sans Regular'),local(GoogleSans-Regular),url(//fonts.gstatic.com/s/googlesans/v5/4UaGrENHsxJlGDuGo1OIlL3Kwp5MKg.woff2) format("woff2");unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:local('Google Sans Regular'),local(GoogleSans-Regular),url(//fonts.gstatic.com/s/googlesans/v5/4UaGrENHsxJlGDuGo1OIlL3Nwp5MKg.woff2) format("woff2");unicode-range:U+0370-03FF}@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:local('Google Sans Regular'),local(GoogleSans-Regular),url(//fonts.gstatic.com/s/googlesans/v5/4UaGrENHsxJlGDuGo1OIlL3Awp5MKg.woff2) format("woff2");unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:local('Google Sans Regular'),local(GoogleSans-Regular),url(//fonts.gstatic.com/s/googlesans/v5/4UaGrENHsxJlGDuGo1OIlL3Owp4.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:local('Google Sans Medium'),local(GoogleSans-Medium),url(//fonts.gstatic.com/s/googlesans/v5/4UabrENHsxJlGDuGo1OIlLU94Yt3CwZ-Pw.woff2) format("woff2");unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:local('Google Sans Medium'),local(GoogleSans-Medium),url(//fonts.gstatic.com/s/googlesans/v5/4UabrENHsxJlGDuGo1OIlLU94YtwCwZ-Pw.woff2) format("woff2");unicode-range:U+0370-03FF}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:local('Google Sans Medium'),local(GoogleSans-Medium),url(//fonts.gstatic.com/s/googlesans/v5/4UabrENHsxJlGDuGo1OIlLU94Yt9CwZ-Pw.woff2) format("woff2");unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:local('Google Sans Medium'),local(GoogleSans-Medium),url(//fonts.gstatic.com/s/googlesans/v5/4UabrENHsxJlGDuGo1OIlLU94YtzCwY.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+#outer-wrapper{width:768px;overflow:hidden;margin:0 auto;padding:0;background:#fff}
+#wrapper{overflow:hidden;max-width:100%;padding:30px;margin:0 auto;background:#eee;text-align:center;}
+#wrapper .widget{background:white;padding:10px 30px;margin:30px 0;border-radius:10px;border:1px solid rgb(0 0 0 / 13%)}
+body{font-family:'Google Sans',sans-serif;background:#141744; 
+background:linear-gradient(53deg,#f22613,#f89406,#26a65b,#5868ec,#f54e80,#f7ca18,#d2527f);background-size:1400% 1400%;-webkit-animation:AnimationName 3s ease infinite;-moz-animation:AnimationName 3s ease infinite;animation:AnimationName 3s ease infinite;}
+@-webkit-keyframes AnimationName{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%}}
+@-moz-keyframes AnimationName{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%}}
+@keyframes AnimationName{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%};-webkit-animation:bannerrainbow 6s infinite;-ms-animation:bannerrainbow 6s infinite;-o-animation:bannerrainbow 6s infinite;animation:bannerrainbow 6s infinite;}
+@keyframes bannerrainbow{0%{background-color:#ff0000;}25%{background-color:#ff8000;}50%{background-color:#22A7F0;}75%{background-color:#26A65B;}100%{background-color:#ff0080;}}
+@-webkit-keyframes rainbow{0%{background-color:#ff0000;}25%{background-color:#ff8000;}50%{background-color:#22A7F0;}75%{background-color:#26A65B;}100%{background-color:#ff0080;}}
+@-ms-keyframes rainbow{0%{background-color:#ff0000;}25%{background-color:#ff8000;}50%{background-color:#22A7F0;}75%{background-color:#26A65B;}100%{background-color:#ff0080;}}
+@-o-keyframes rainbow{0%{background-color:#ff0000;}25%{background-color:#ff8000;}50%{background-color:#22A7F0;}75%{background-color:#26A65B;}100%{background-color:#ff0080;}}
+.header-wrapper {margin:0 auto;border-bottom:4px solid #fff;text-align: center;padding:30px;background: linear-gradient(to top, #670606, #d04949);}
+.header h1,h1.title a {color: #f9f67a;font-size: 30px;line-height: 1.6em;text-decoration:none}
+small{font-style:italic;font-size:80%;color:#22a7f0}
+input{color:#999;margin:10px auto;padding:0 15px;height:30px;border-radius:5px;border:0;box-shadow:0 1px 3px 0 rgba(32, 33, 36, .28)}
+.input,.request{font-weight:500;}
+#targetURL,#message{width:100%;max-width:100%}
+#rps{margin:15px;width:80px}
+#fireButton{width:200px;background:#26a65b;color:white;padding:15px;margin:10px;border-radius:5px;}
+#fireButton:hover{cursor:pointer;background:#f00}
+#requestedCtr{color:#26a65b}
+#succeededCtr{opacity: 0.8;color: #22a7f0}
+#failedCtr{opacity: 0.5;color:#f00}
+.footer {background:#111;border-top:4px solid #fff;text-align:center;padding:30px}
+.link-server{width:100%;margin:15px auto}
+.link-server a{border-radius:5px;color:white;background:#357ae8;padding:2px 10px;margin:20px auto;text-decoration:none}
+.link-server a:hover{background:#f00}
+.Stats span{margin-right:0!important}
+.credit{margin:15px auto;color:yellow}
+.credit a{color:white}
+@media only screen and (max-width:1024px){
+#outer-wrapper,.ip-adress{width:100%}
+}
+@media only screen and (max-width:768px){
+#wrapper{padding:10px}
+}
+]]></b:skin>
+<body>
+<div id='outer-wrapper'>
+<div class='header-wrapper' id='header-wrapper' itemscope='itemscope' itemtype='http://schema.org/WPHeader'>
+  <b:section class='header section' id='header' maxwidgets='1'>
+    <b:widget id='Header1' locked='true' title='Auto Visitor (Header)' type='Header' version='1'>
+      <b:widget-settings>
+        <b:widget-setting name='displayUrl'/>
+        <b:widget-setting name='displayHeight'>0</b:widget-setting>
+        <b:widget-setting name='sectionWidth'>-1</b:widget-setting>
+        <b:widget-setting name='useImage'>false</b:widget-setting>
+        <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
+        <b:widget-setting name='imagePlacement'>BEHIND</b:widget-setting>
+        <b:widget-setting name='displayWidth'>0</b:widget-setting>
+      </b:widget-settings>
+      <b:includable id='main'>
+
+  <b:if cond='data:useImage'>
+    <b:if cond='data:imagePlacement == &quot;BEHIND&quot;'>
+      <!--
+      Show image as background to text. You can't really calculate the width
+      reliably in JS because margins are not taken into account by any of
+      clientWidth, offsetWidth or scrollWidth, so we don't force a minimum
+      width if the user is using shrink to fit.
+      This results in a margin-width's worth of pixels being cropped. If the
+      user is not using shrink to fit then we expand the header.
+      -->
+      <b:if cond='data:mobile'>
+          <div id='header-inner'>
+            <div class='titlewrapper' style='background: transparent'>
+                <b:include name='title'/>
+            </div>
+            <b:include name='description'/>
+          </div>
+        <b:else/>
+          <div expr:style='&quot;background-image: url(\&quot;&quot; + data:sourceUrl + &quot;\&quot;); &quot;                        + &quot;background-position: &quot;                        + data:backgroundPositionStyleStr + &quot;; &quot;                        + data:widthStyleStr                        + &quot;min-height: &quot; + data:height                        + &quot;_height: &quot; + data:height                        + &quot;background-repeat: no-repeat; &quot;' id='header-inner'>
+            <div class='titlewrapper' style='background: transparent'>
+                <b:include name='title'/>
+            </div>
+            <b:include name='description'/>
+          </div>
+        </b:if>
+    <b:else/>
+      <!--Show the image only-->
+      <div id='header-inner'>
+        <a expr:href='data:blog.homepageUrl' style='display: block'>
+          <img expr:alt='data:title' expr:height='data:height' expr:id='data:widget.instanceId + &quot;_headerimg&quot;' expr:src='data:sourceUrl' expr:width='data:width' style='display: block'/>
+        </a>
+        <!--Show the description-->
+        <b:if cond='data:imagePlacement == &quot;BEFORE_DESCRIPTION&quot;'>
+          <b:include name='description'/>
+        </b:if>
+      </div>
+    </b:if>
+  <b:else/>
+    <!--No header image -->
+    <div id='header-inner'>
+      <div class='titlewrapper'>
+          <b:include name='title'/>
+      </div>
+      <b:include name='description'/>
+    </div>
+  </b:if>
+</b:includable>
+      <b:includable id='description'/>
+      <b:includable id='title'>
+  <b:if cond='data:blog.pageType != &quot;item&quot;'>
+    <b:if cond='data:blog.pageType != &quot;static_page&quot;'>
+      <h1 class='title'>
+        <a expr:href='data:blog.homepageUrl' expr:title='data:blog.title' itemprop='url'>
+          <span itemprop='name'><data:title/></span>
+        </a>
+      </h1>
+      <b:else/>
+      <h2 class='title'>
+        <a expr:href='data:blog.homepageUrl' expr:title='data:blog.title' itemprop='url'>
+          <span itemprop='name'><data:title/></span>
+        </a>
+      </h2>
+    </b:if>
+    <b:else/>
+    <h2 class='title'>
+      <a expr:href='data:blog.homepageUrl' expr:title='data:blog.title' itemprop='url'>
+        <span itemprop='name'><data:title/></span>
+      </a>
+    </h2>
+      </b:if>
+</b:includable>
+    </b:widget>
+  </b:section>
+</div>
+<div id='wrapper'>
+<img alt='IP' class='ip-adress' src='https://www.wieistmeineip.de/ip-address/?size=468x60'/>
+<b:section class='main' id='main'>
+  <b:widget id='HTML1' locked='true' title='Input Link Target (Use http://) :' type='HTML' version='1'>
+    <b:widget-settings>
+      <b:widget-setting name='content'/>
+    </b:widget-settings>
+    <b:includable id='main'>
+<h2 class='title'><data:title/></h2>
+  <div class='widget-content'>
+<label class='input'><input id='targetURL' value='http://'/><br/></label>
+<!-- disabled="true" -->
+<small>Ex : https://www.facebook.com</small>  
+</div>
+</b:includable>
+  </b:widget>
+  <b:widget id='HTML2' locked='true' title='Traffic' type='HTML' version='1'>
+    <b:widget-settings>
+      <b:widget-setting name='content'/>
+    </b:widget-settings>
+    <b:includable id='main'>
+  <div class='widget-content'>
+<label class='request'>Visitor Request/Seconds : <input id='rps' value='10000'/></label><br/>
+<label class='message'>Message (optional) : <br/><input id='message' value='Premium Traffic Visitor'/></label>  </div>
+</b:includable>
+  </b:widget>
+  <b:widget id='HTML3' locked='true' title='Click Start :' type='HTML' version='1'>
+    <b:widget-settings>
+      <b:widget-setting name='content'/>
+    </b:widget-settings>
+    <b:includable id='main'>
+    <h2 class='title'><data:title/></h2>
+  <div class='widget-content'>
+<button id='fireButton'>START NOW</button>  
+</div>
+</b:includable>
+  </b:widget>
+  <b:widget id='HTML4' locked='true' title='Status :' type='HTML' version='1'>
+    <b:widget-settings>
+      <b:widget-setting name='content'/>
+    </b:widget-settings>
+    <b:includable id='main'>
+    <h2 class='title'><data:title/></h2>
+  <div class='widget-content'>
+<dl>
+<dt>Request :</dt><dd id='requestedCtr'>0</dd>
+<dt style='opacity: 0.5'>Success :</dt><dd id='succeededCtr'>0</dd>
+<dt style='opacity: 0.5'>Failed :</dt><dd id='failedCtr'>0</dd>
+</dl>  
+</div>
+</b:includable>
+  </b:widget>
+</b:section>
+</div>
+<div class='footer' id='footer'>
+<div class='link-server'>
+<a href='//superjingling.blogspot.com/' rel='dofollow' target='_blank' title='JINGLING ONLINE'>Server1</a>
+<a href='#' rel='dofollow' target='_blank' title='JINGLING ONLINE'>Server2</a>
+<a href='#' rel='dofollow' target='_blank' title='Visitor Traffic'>Server3</a>
+<div class='clear'/>
+</div>
+<b:section class='foot' id='foot' showaddelement='no'>
+  <b:widget id='Stats1' locked='true' title='Total Tayangan Halaman' type='Stats' version='1'>
+    <b:widget-settings>
+      <b:widget-setting name='showGraphicalCounter'>true</b:widget-setting>
+      <b:widget-setting name='showAnimatedCounter'>true</b:widget-setting>
+      <b:widget-setting name='showSparkline'>false</b:widget-setting>
+      <b:widget-setting name='sparklineStyle'>BLACK_TRANSPARENT</b:widget-setting>
+      <b:widget-setting name='timeRange'>ALL_TIME</b:widget-setting>
+    </b:widget-settings>
+    <b:includable id='main'>
+  <div class='widget-content'>
+    <div expr:id='data:widget.instanceId + &quot;_content&quot;' style='display: none;'>
+      <b:if cond='data:showSparkline'>
+        <script src='https://www.gstatic.com/charts/loader.js' type='text/javascript'/>
+        <span expr:id='data:widget.instanceId + &quot;_sparklinespan&quot;' style='display:inline-block; width:75px; height:30px'/>
+      </b:if>
+      <span expr:class='&quot;counter-wrapper &quot; + (data:showGraphicalCounter ? &quot;graph-counter-wrapper&quot; : &quot;text-counter-wrapper&quot;)' expr:id='data:widget.instanceId + &quot;_totalCount&quot;'>
+      </span>
+    </div>
+  </div>
+</b:includable>
+  </b:widget>
+</b:section>
+<div class='credit' id='credit'>
+Copyright&#169; <script type='text/javascript'>var creditsyear = new Date();document.write(creditsyear.getFullYear());</script> <i class='fa fa-heart' style='color:red'/> <a expr:href='data:blog.url'><data:blog.title/></a>
+</div>
+</div>
+</div>
+<script type='text/javascript'>
+//<![CDATA[
+(function () {
+var fireInterval;
+var isFiring = false;
+var requestedCtrNode = document.getElementById("requestedCtr"),
+succeededCtrNode = document.getElementById("succeededCtr"),
+failedCtrNode = document.getElementById("failedCtr"),
+targetURLNode = document.getElementById("targetURL"),
+fireButton = document.getElementById("fireButton"),
+messageNode = document.getElementById("message"),
+rpsNode = document.getElementById("rps"),
+timeoutNode = document.getElementById("timeout");
+var targetURL = targetURLNode.value;
+targetURLNode.onchange = function () {
+targetURL = this.value;
+};
+var requestsHT = {}; // requests hash table, may come in handy later
+var requestedCtr = 0,
+succeededCtr = 0,
+failedCtr = 0;
+var makeHttpRequest = function () {
+if (requestedCtr > failedCtr + succeededCtr + 10000) { //Allow no more than 10000 hung requests
+return;
+};
+var rID =Number(new Date());
+var img = new Image();
+img.onerror = function () { onFail(rID); };
+img.onabort = function () { onFail(rID); };
+img.onload = function () { onSuccess(rID); }; // TODO: it may never happen if target URL is not an image... // but probably can be fixed with different methods
+  img.setAttribute("src", targetURL + "?id=" + rID + ";msg=" + messageNode.value);
+requestsHT[rID] = img;
+onRequest(rID);
+};
+var onRequest = function (rID) {
+requestedCtr++;
+requestedCtrNode.innerHTML = requestedCtr;
+};
+var onComplete = function (rID) {
+delete requestsHT[rID];
+};
+var onFail = function (rID) {
+// failedCtr++;
+//failedCtrNode.innerHTML = failedCtr;
+succeededCtr++; //Seems like the url will always fail it it isn't an image
+succeededCtrNode.innerHTML = succeededCtr;
+delete requestsHT[rID]; // we can't keep it forever or it would blow up the browser
+};
+var onSuccess = function (rID) {
+succeededCtr++;
+succeededCtrNode.innerHTML = succeededCtr;
+delete requestsHT[rID];
+};
+fireButton.onclick = function () {
+if (isFiring) {
+clearInterval(fireInterval);
+isFiring = false;
+this.innerHTML = "RESUME";
+} else {
+isFiring = true;
+this.innerHTML = "PAUSE";
+fireInterval = setInterval(makeHttpRequest, (10000 / parseInt(rpsNode.value) | 0));
+}
+};
+})();
+isFiring = true;
+document.getElementById("fireButton").innerHTML = "START";
+fireInterval = setInterval(makeHttpRequest, (10000 / parseInt(document.getElementById("rps").value) | 0));
+//]]>
+</script>
+</body>
+</html>
